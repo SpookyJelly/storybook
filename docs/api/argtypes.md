@@ -190,8 +190,8 @@ You can also define arg types at the global level; they will apply to every comp
 
 <CodeSnippets
   paths={[
-    'common/button-story-project-args-theme.js.mdx',
-    'common/button-story-project-args-theme.ts.mdx',
+    'common/preview-config-arg-types.js.mdx',
+    'common/preview-config-arg-types.ts.mdx',
   ]}
 />
 
