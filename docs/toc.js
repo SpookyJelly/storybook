@@ -604,6 +604,11 @@ module.exports = {
           ],
         },
         {
+          pathSegment: 'arg-types',
+          title: 'ArgTypes',
+          type: 'link',
+        },
+        {
           title: 'Doc blocks',
           pathSegment: '',
           type: 'menu',
